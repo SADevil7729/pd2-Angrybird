@@ -1,0 +1,13 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\item.o
+./debug\unmovableitem.o
+./debug\bird.o
+./debug\movableitem.o
+./debug\contactlistener.o
+./debug\character.o
+./debug\qrc_resource.o
+./debug\moc_mainwindow.o
+./debug\moc_item.o
+);

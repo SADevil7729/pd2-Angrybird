@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\item.o
+./release\unmovableitem.o
+./release\bird.o
+./release\movableitem.o
+./release\contactlistener.o
+./release\character.o
+./release\qrc_resource.o
+./release\moc_mainwindow.o
+./release\moc_item.o
+);
